@@ -23,7 +23,7 @@ Sistema de gestão de finanças com banco de dados em local, salvamento automati
  
  ### Demonstração
  
- <img src= './gifvelha.gif'>
+ <img src= './gif.delta.gif'>
  <p align='center' font-size=20px> <a href=https://luan400.github.io/Jogo-da-velha-vs-bot/>Teste</a></p>
  
  
